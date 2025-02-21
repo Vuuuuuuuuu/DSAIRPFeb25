@@ -15,7 +15,7 @@ turing test
 ## Data Science Application Domains
 ## Correlation Vs. Causation
 ## Ethics in AI
-Privacy /n
+Privacy
 Accountability
 Safety
 Transparency
