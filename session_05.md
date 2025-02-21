@@ -15,4 +15,10 @@ turing test
 ## Data Science Application Domains
 ## Correlation Vs. Causation
 ## Ethics in AI
+Privacy
+Accountability
+Safety
+Transparency
+Respect for human values
+fairness
 
