@@ -2,6 +2,7 @@
 ## Artificial Intelligence
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
+turing test
 ### Perceptron
 ### Backpropagation
 ### AI Winter
