@@ -26,8 +26,18 @@ Agile
 9) repeat
 
 ## Project Management using JIRA
-usage of jira <br>
+- Platform independent tool
+- Availability of various project management board
+- Business templates
+- Email notification
+- Reports
+- Integration with tool
+
+
+story board<br>
+top down method
 - epic
+- id
 - story
 - task
 - sub task
