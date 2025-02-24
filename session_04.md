@@ -1,8 +1,33 @@
 # IT Foundation for Data Science 2
+Software development
+ 
+Requirement analysis
+- Design
+- Development
+- Testing and deployment
+- Maintenance
+  
+Successful project
+- big bang model
+- water fall
+- iterative
+- spiral model
+
+Agile
+ 
+1) sprint( a project is divided into smaller parts called sprints)
+2) plan
+3) design
+4) develop
+5) test
+6) deploy
+7) review
+8) launch
+9) repeat
 
 ## Project Management using JIRA
 usage of jira <br>
-epic<br>
-story<br>
-task<br>
-sub task<br>
+- epic
+- story
+- task
+- sub task
