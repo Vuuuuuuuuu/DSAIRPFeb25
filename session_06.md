@@ -11,6 +11,35 @@
 
 ## Checklist
 1. Git bash terminal access in VS Code
-2. Venv creation
+2. Venv creation. 
+```bash 
+pip install jupyter
+```
 3. Jupyter notebook
+```bash
+jupyter notebook
+```
 4. Auto code correction
+
+# Python Data Types
+## Numeric Type
+### Integer
+### Float
+### Complex
+
+## Text Type
+### String
+
+## Sequence Type
+### List
+### Tuple
+### Range
+
+## Mapping Type
+### Dictionary
+
+## Set Type
+
+## Boolean
+
+## None Type
