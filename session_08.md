@@ -66,6 +66,6 @@ print{add numbers, __doc__}
 - use kwargs
 def print_info(*kwargs)<br>
    for item in  kwargs<br>
-       print(item)<br>
+  \t print(item)<br>
  
 ## Custom Functions
