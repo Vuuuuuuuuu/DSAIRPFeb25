@@ -21,4 +21,9 @@
 ### input  and output function
 - input()
 - print()
+### mathemethical functions
+- abs()
+- pow(a,b)
+- round()
+- divmod(a,b)
 ## Custom Functions
