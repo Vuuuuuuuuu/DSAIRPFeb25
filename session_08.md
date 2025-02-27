@@ -39,11 +39,11 @@
 - isinstance()
 - dir()
 ### file handling function
-open("file.txt", "r")
-with open("sample.txt", "w") as f:
-f.write("hello world !")
-
-data=f.readlines
+open("file.txt", "r")<br>
+with open("sample.txt", "w") as f:<br>
+f.write("hello world !")<br>
+<br>
+data=f.readlines<br>
 print(data)
 ### misc function
 #### defining and calling function
