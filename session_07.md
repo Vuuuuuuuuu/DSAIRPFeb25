@@ -1,5 +1,7 @@
 # Control Flow
 ## IF
+- condition
+- syntax if : else:
 ## IF-ELSE
 ## IF-ELIF-ELSE
 ## Nested IFs
