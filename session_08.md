@@ -50,7 +50,7 @@ print(data)
 - use def function_name() to define function
 - call a function using function_name
 #### function arguments
- def add(a, b):
+ def add(a, b): <br>
      print("sum:", a+b)
      
 
