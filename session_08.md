@@ -39,35 +39,39 @@
 - isinstance()
 - dir()
 ### file handling function
-open("file.txt", "r")<br>
-with open("sample.txt", "w") as f:<br>
-f.write("hello world !")<br>
-<br>
-data=f.readlines<br>
+```pythonopen("file.txt", "r")
+with open("sample.txt", "w") as f:
+f.write("hello world !")
+data=f.readlines
 print(data)
+```
 ### misc function
 #### defining and calling function
 - use def function_name() to define function
 - call a function using function_name
 #### function arguments
- def add(a, b): <br>
+```python
+def add(a, b): 
      print("sum:", a+b)
+```
  #### return value
- return()
+```python return()```
 #### scope of variables in function
-x= 5 #global scope <br>
-def my_funct():<br>
-   x= 5#local variable <br>
-   print("inside function:", x) <br>
+```python
+x= 5 #global scope
+def my_funct():
+   x= 5#local variable
+   print("inside function:", x)
+```
 #### documentation
-print{add numbers, __doc__}
+```python print{add numbers, __doc__}```
 ####
 - to store any number od elements
 - use kwargs
 ```python
-def print_info(*kwargs)<br>
-   for item in  kwargs<br>
-   print(item)<br>
+def print_info(*kwargs):
+   for item in  kwargs
+   print(item)
 ```
  
 ## Custom Functions
