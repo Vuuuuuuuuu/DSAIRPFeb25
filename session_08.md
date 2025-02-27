@@ -64,8 +64,10 @@ print{add numbers, __doc__}
 ####
 - to store any number od elements
 - use kwargs
+```python
 def print_info(*kwargs)<br>
    for item in  kwargs<br>
-\print(item)<br>
+   print(item)<br>
+```
  
 ## Custom Functions
