@@ -3,6 +3,9 @@
 - condition
 - syntax if : else:
 ## IF-ELSE
+if <condition>:
+elif <condition>:
+else:
 ## IF-ELIF-ELSE
 ## Nested IFs
 
