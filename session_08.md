@@ -26,4 +26,32 @@
 - pow(a,b)
 - round()
 - divmod(a,b)
+### iterable and sequences
+- len()
+- max()
+- min()
+- sum()
+- sorted()
+- range()
+### object and memory funtions
+- type()
+- id()
+- isinstance()
+- dir()
+### file handling function
+open("file.txt", "r")
+with open("sample.txt", "w") as f:
+f.write("hello world !")
+
+data=f.readlines
+print(data)
+### misc function
+#### defining and calling function
+- use def function_name() to define function
+- call a function using function_name
+#### function arguments
+ def add(a, b):
+     print("sum:", a+b)
+     
+
 ## Custom Functions
