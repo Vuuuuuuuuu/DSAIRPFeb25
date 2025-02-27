@@ -4,9 +4,12 @@
 - syntax if : else:
 ## IF-ELSE
 if <condition>:
-elif <condition>:
+
 else:
 ## IF-ELIF-ELSE
+if <condition>:<br>
+elif <condition>:<br>
+else:<br>
 ## Nested IFs
 
 # Loops
