@@ -54,5 +54,10 @@ print(data)
      print("sum:", a+b)
  #### return value
  return()
-
+#### scope of variables in function
+x= 5 #global scope <br>
+def my_funct():<br>
+   x= 5#local variable <br>
+   print("inside function:", x) <br>
+ 
 ## Custom Functions
