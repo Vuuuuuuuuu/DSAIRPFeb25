@@ -59,5 +59,13 @@ x= 5 #global scope <br>
 def my_funct():<br>
    x= 5#local variable <br>
    print("inside function:", x) <br>
+#### documentation
+print{add numbers, __doc__}
+####
+- to store any number od elements
+- use kwargs
+def print_info(*kwargs)<br>
+   for item in  kwargs<br>
+       print(item)<br>
  
 ## Custom Functions
