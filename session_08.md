@@ -18,7 +18,7 @@
 - tuple()
 - set()
 - dict([(),()])
-###input  and output function
--input()
--print()
+### input  and output function
+- input()
+- print()
 ## Custom Functions
