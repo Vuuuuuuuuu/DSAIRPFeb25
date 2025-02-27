@@ -9,4 +9,16 @@
 - obeject and memory function
 - file handling function
 - miscellaneous function
+### type convertion
+- int()
+- str()
+- float()
+- bool()
+- list()
+- tuple()
+- set()
+- dict([(),()])
+###input  and output function
+-input()
+-print()
 ## Custom Functions
