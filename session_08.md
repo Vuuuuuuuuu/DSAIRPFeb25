@@ -39,7 +39,8 @@
 - isinstance()
 - dir()
 ### file handling function
-```pythonopen("file.txt", "r")
+```python
+open("file.txt", "r")
 with open("sample.txt", "w") as f:
 f.write("hello world !")
 data=f.readlines
